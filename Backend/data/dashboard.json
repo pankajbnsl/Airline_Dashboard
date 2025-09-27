@@ -1,0 +1,200 @@
+{
+  "summary": {
+    "totalFlights": 120,
+    "onTime": 95,
+    "delayed": 20,
+    "cancelled": 5,
+    "activeCrew": 230
+  },
+  "flights": [
+    {
+      "flightNo": "AI101",
+      "origin": "Delhi",
+      "destination": "Mumbai",
+      "departure": "2025-09-15T06:30:00",
+      "arrival": "2025-09-15T08:30:00",
+      "status": "On-Time",
+      "isLive": true
+    },
+    {
+    "flightNo": "AI102",
+    "origin": "Mumbai",
+    "destination": "Delhi",
+    "departure": "2025-09-15T07:00:00",
+    "arrival": "2025-09-15T09:00:00",
+    "status": "Delayed",
+    "isLive": true
+    },
+    {
+      "flightNo": "AI103",
+      "origin": "Bangalore",
+      "destination": "Chennai",
+      "departure": "2025-09-15T08:15:00",
+      "arrival": "2025-09-15T09:30:00",
+      "status": "On-Time",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI104",
+      "origin": "Chennai",
+      "destination": "Bangalore",
+      "departure": "2025-09-15T09:45:00",
+      "arrival": "2025-09-15T11:00:00",
+      "status": "Cancelled",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI105",
+      "origin": "Delhi",
+      "destination": "Kolkata",
+      "departure": "2025-09-15T10:00:00",
+      "arrival": "2025-09-15T12:15:00",
+      "status": "On-Time",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI106",
+      "origin": "Kolkata",
+      "destination": "Delhi",
+      "departure": "2025-09-15T11:30:00",
+      "arrival": "2025-09-15T13:45:00",
+      "status": "Delayed",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI107",
+      "origin": "Mumbai",
+      "destination": "Chennai",
+      "departure": "2025-09-15T12:00:00",
+      "arrival": "2025-09-15T14:00:00",
+      "status": "On-Time",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI108",
+      "origin": "Chennai",
+      "destination": "Mumbai",
+      "departure": "2025-09-15T13:15:00",
+      "arrival": "2025-09-15T15:15:00",
+      "status": "Delayed",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI109",
+      "origin": "Bangalore",
+      "destination": "Delhi",
+      "departure": "2025-09-15T14:30:00",
+      "arrival": "2025-09-15T17:00:00",
+      "status": "On-Time",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI110",
+      "origin": "Delhi",
+      "destination": "Bangalore",
+      "departure": "2025-09-15T15:45:00",
+      "arrival": "2025-09-15T18:15:00",
+      "status": "Cancelled",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI111",
+      "origin": "Mumbai",
+      "destination": "Kolkata",
+      "departure": "2025-09-15T16:00:00",
+      "arrival": "2025-09-15T18:30:00",
+      "status": "On-Time",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI112",
+      "origin": "Kolkata",
+      "destination": "Mumbai",
+      "departure": "2025-09-15T17:15:00",
+      "arrival": "2025-09-15T19:45:00",
+      "status": "Delayed",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI113",
+      "origin": "Delhi",
+      "destination": "Chennai",
+      "departure": "2025-09-15T18:30:00",
+      "arrival": "2025-09-15T21:00:00",
+      "status": "On-Time",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI114",
+      "origin": "Chennai",
+      "destination": "Delhi",
+      "departure": "2025-09-15T19:45:00",
+      "arrival": "2025-09-15T22:15:00",
+      "status": "Cancelled",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI115",
+      "origin": "Bangalore",
+      "destination": "Kolkata",
+      "departure": "2025-09-15T20:00:00",
+      "arrival": "2025-09-15T22:30:00",
+      "status": "On-Time",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI116",
+      "origin": "Kolkata",
+      "destination": "Bangalore",
+      "departure": "2025-09-15T21:15:00",
+      "arrival": "2025-09-15T23:45:00",
+      "status": "Delayed",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI117",
+      "origin": "Mumbai",
+      "destination": "Delhi",
+      "departure": "2025-09-15T22:00:00",
+      "arrival": "2025-09-16T00:00:00",
+      "status": "On-Time",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI118",
+      "origin": "Delhi",
+      "destination": "Mumbai",
+      "departure": "2025-09-16T01:15:00",
+      "arrival": "2025-09-16T03:15:00",
+      "status": "Delayed",
+      "isLive": true
+    },
+    {
+      "flightNo": "AI119",
+      "origin": "Chennai",
+      "destination": "Bangalore",
+      "departure": "2025-09-16T02:30:00",
+      "arrival": "2025-09-16T03:45:00",
+      "status": "On-Time",
+      "isLive": false
+    },
+    {
+      "flightNo": "AI120",
+      "origin": "Bangalore",
+      "destination": "Chennai",
+      "departure": "2025-09-16T03:45:00",
+      "arrival": "2025-09-16T05:00:00",
+      "status": "Cancelled",
+      "isLive": false
+    }
+  ],
+  "flightsPerDay": [
+    { "day": "Mon", "flights": 18 },
+    { "day": "Tue", "flights": 20 },
+    { "day": "Wed", "flights": 22 },
+    { "day": "Thu", "flights": 19 },
+    { "day": "Fri", "flights": 21 },
+    { "day": "Sat", "flights": 15 },
+    { "day": "Sun", "flights": 25 }
+  ]
+}

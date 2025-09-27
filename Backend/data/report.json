@@ -1,0 +1,28 @@
+{
+  "monthlyFlights": [
+    { "month": "Jan", "flights": 120 },
+    { "month": "Feb", "flights": 150 },
+    { "month": "Mar", "flights": 200 },
+    { "month": "Apr", "flights": 180 },
+    { "month": "May", "flights": 220 },
+    { "month": "Jun", "flights": 170 }
+  ],
+  "flightTypes": [
+    { "name": "Domestic", "value": 65 },
+    { "name": "International", "value": 35 }
+  ],
+  "performanceTrend": [
+    { "month": "Jan", "performance": 85 },
+    { "month": "Feb", "performance": 90 },
+    { "month": "Mar", "performance": 70 },
+    { "month": "Apr", "performance": 95 },
+    { "month": "May", "performance": 80 },
+    { "month": "Jun", "performance": 88 }
+  ],
+  "detailedReport": [
+    ["AI-202", "DEL → BOM", "On Time", "0"],
+    ["6E-401", "BLR → HYD", "Delayed", "25"],
+    ["UK-112", "DEL → GOA", "On Time", "0"],
+    ["SG-309", "PNQ → DEL", "Cancelled", "-"]
+  ]
+}
